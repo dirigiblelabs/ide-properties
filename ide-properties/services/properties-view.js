@@ -11,10 +11,9 @@
  */
 const viewData = {
 	id: "properties",
-	name: "Properties",
+	label: "Properties",
 	factory: "frame",
 	region: "bottom",
-	label: "Properties",
 	link: "../ide-properties/properties.html"
 }
 
